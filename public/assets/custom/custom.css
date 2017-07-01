@@ -1,0 +1,162 @@
+*{ margin:0px; padding:0px;}
+img{ max-width: 100%;}
+h1,h2,h3,h4,h5,h6,p{margin:0px;}
+a{ color:#073dab; text-decoration:none;}
+.clr{clear:both;}
+ul li{list-style:none;}
+
+.title{color:#254477;}
+
+.btn_white{
+    background:#ffffff;
+    padding:5px 35px;
+    font-size:18px;
+    font-weight:600;
+    background: #fff;
+    color:#000000;
+    transition: all 0.5s ease;
+}
+
+/*================ Header Css Starts Here ================*/
+#header{
+    
+}
+#header .top_bar{
+   background:#254477;
+   padding: 20px 0px 15px;
+}
+#header .social{
+    
+}
+
+#header .social ul li{
+    display:inline-block;
+    margin-right:5px;
+}
+#header .social ul li a{
+    display:block;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    background:#fff;
+    text-align:center;
+    font-size: 16px;
+    line-height:30px;
+    transition: all 0.5s ease;
+    background: #fff;
+    color:#000000;
+}
+
+#header .social ul li a:hover{
+    background: #000;
+    color: #ffff4d;
+}
+
+#header .phone h2{
+    color:#fff;
+    font-size:24px;
+    text-align:center;
+    font-weight:bold;
+}
+#header .phone h2 span{
+    margin-right:5px;
+    font-size: 24px;
+    vertical-align: middle;
+}
+
+#header .phone p{
+    font-size:14px;
+    font-weight:300;
+    color:#fff;
+    margin-top:5px;
+    text-transform:capitalize;
+    text-align:center;
+}
+
+#header .login{
+    text-align:right;
+}
+
+#header .login .top-right {
+	position: static;
+}
+
+#header .login .btn_white{
+    background:#ffffff;
+    padding:5px 35px;
+    font-size:14px;
+    font-weight:600;
+    background: #fff;
+    color:#000000;
+    transition: all 0.5s ease;
+}
+
+#header .login .btn_white:hover{
+    background: #000;
+    color: #ffff4d;
+}
+
+#header .main_header{
+    padding:35px 0px 30px;
+}
+
+#header .main_header .logo img{
+    width:280px;
+    max-width:100%;
+}
+#header .menu {
+    text-align:right;
+}
+
+#header .menu .toggle_icon{
+    color: #000;
+    font-size:35px;
+    margin-top: 25px;
+    display: block;
+}
+/*================ Header Css Ends Here ================*/
+
+/*================ Main Content Css Starts Here ================*/
+.main_content{padding:50px 0px;}
+.main_content .property_img{
+    text-align:center;
+}
+.main_content .property_img img{width:250px; height:250px; border-radius:50%; border:2px solid #254477; margin:30px auto;}
+.main_content .property_details .place_name:after{content:''; border-bottom: 4px solid #254477; display: block; width: 200px;  margin: 10px auto;}
+.main_content .property_details .place_name h2{ text-align:center; font-weight:bold; font-size:35px;}
+.main_content .property_details .place_name p{ text-align:center; font-weight:bold; font-size:14px; color:#000; margin-top:10px;}
+.main_content .description{width:700px; max-width:100%; margin:35px auto;}
+.main_content .description p{font-size:16px; line-height:30px;}
+/*================ Main Content Css Ends Here ================*/
+
+/*================ Footer Css Starts Here ================*/
+#footer{
+    background:#254477;
+     padding: 25px 0px 15px;
+}
+#footer .footer_nav {
+    text-align:right;
+}
+#footer .footer_nav li{
+    display: inline-block;
+    padding-right: 22px;
+    font-size: 14px;
+    font-weight: 600;
+    
+}
+
+#footer .footer_nav li a{
+    color: #fff
+}
+
+#footer .disclaimer{
+    color:#fff;
+    font-size:14px;
+}
+/*================ Footer Css Ends Here ================*/
+
+
+@media (min-width: 1200px){
+	.container{ width:1170px;}
+}
+

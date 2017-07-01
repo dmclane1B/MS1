@@ -1,0 +1,348 @@
+body.full-height-layout #wrapper, body.full-height-layout #page-wrapper{
+    min-height:100% !important;
+    height: auto !important;
+}
+#multistep_form{
+    width:940px;
+    margin:0 auto;
+}
+.msf-content{
+    padding: 0 10%;
+}
+.msf-view {
+  display: none;
+  
+}
+.msf-view p{
+	display:inline-block;
+	margin-right: 15px;
+}
+.msf-view .head_info p{
+	display:inline-block;
+	margin-right: 15px;
+}
+.msf-view h3{
+	font-size: 18px;
+}
+.msf-view h4{
+	font-size: 14px;
+}
+.msf-view .head_info span{
+	float:right;
+}
+.msf-view ul {
+	list-style: none;
+    padding-left: 3px;
+	max-width:100%
+	
+}
+.msf-view ul li .checkbox ul li .radio label {
+	margin-left: 20px;
+}
+.msf-view .agreement{
+
+}
+.msf-view .agreement p{
+	margin-right:0px;
+}
+.msf-view .agreement .contact{
+	text-align: center;
+    width: 230px;
+    max-width: 100%;
+    margin: 0 auto 12px;
+}
+.msf-view .agreement .contact .address {
+	line-height: 24px;
+}
+.msf-view .agreement .contact .address .email{
+	color:#666;
+}
+.msf-view .agreement ol{
+	
+}
+.msf-view .agreement{
+	
+}
+.msf-view .agreement .authentication{
+	line-height:34px;
+}
+.msf-view .agreement .form-group{
+	margin:0 0 20px 0;
+	
+}
+.msf-view .agreement .form-group .form-control{
+	
+	border: 0px;
+    box-shadow: none;
+    border-radius: 0px;
+	border-bottom: 1px solid #ccc;
+	width: 60%;
+	max-width:100%;
+    display: inline-block;
+	
+}
+.msf-view .agreement .form-group .form-control-feedback {
+	display:none;
+}
+.msf-view .agreement .form-group label{
+	margin:0px; 
+	font-weight:normal;
+	width: 112px;
+	max-width:100%;
+	font-size: 15px;
+}
+.msf-view .agreement .form-group.less_width label{
+	width:65px;
+	max-width:100%;
+	
+}
+.msf-view .agreement .form-group .form-control:focus{
+	font-size: 15px;
+}
+.msf-view .agreement .form-inline .form-group.more_margin{
+	margin-left:20px;
+}
+.msf-view .agreement ol li{
+	padding-bottom:30px;
+}
+.msf-view .agreement ol li span{
+	font-weight:bold;
+	text-decoration: underline;
+}
+.msf-view .completion_msg h4{
+	line-height: 24px;
+	margin-bottom:30px;
+}
+	
+.form-horizontal .form-group.no_margin{
+	margin-right:0px;
+}
+.msf-view .form-horizontal .radio,.form-horizontal .radio-inline{
+	padding-top:0px !important;
+}
+
+.msf-navigation {
+  text-align: center;
+}
+
+.msf-nav-button {
+  display: none;
+}
+
+.msf-header {
+  padding-top: 10px;
+  margin-bottom: 40px;
+  color: #777;
+  
+}
+
+.msf-header .msf-step {
+  font-size: 20px;
+  
+  /*display : inline-block;
+       vertical-align : middle;*/
+}
+.msf-header .msf-step span{
+  border:1px solid #777;
+  height:30px;
+  width:30px;
+  border-radius:50%;
+  display:block;
+  margin:0px auto;
+  position:relative;
+}
+
+.msf-header .msf-step span:after{
+	content:'';
+	border-bottom:1px solid #777;
+	width: 213px;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 28px;
+}
+.msf-header .msf-step:nth-of-type(4) span:after{
+	border-bottom:0px;
+}
+.msf-header .msf-step i.fa {
+  height: 60px;
+  width: 60px;
+  line-height: 55px;
+  text-align: center;
+  border: 3px solid #777;
+  border-radius: 100%;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.msf-header .msf-step.msf-step-active {
+  color: #ef4035;
+  /*color:#3c763d;*/
+}
+
+.msf-header .msf-step.msf-step-active i.fa {
+  border-color: #ef4035;
+  /*border-color : #3c763d;*/
+}
+
+.msf-header .msf-step.msf-step-complete {
+  /*color: #ef4035;*/
+  color: #3c763d;
+}
+
+.msf-header .msf-step.msf-step-complete i.fa {
+  /*border-color : #ef4035;*/
+  border-color: #3c763d;
+}
+
+.input-validation-error {
+  border-color: red;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+
+.input-validation-error:focus {
+  border-color: red;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.6);
+}
+.checkbox span{float:right;}
+.checkbox label:after, 
+.radio label:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.checkbox label:before,
+.radio label:before{
+	display:none;
+}
+.radio label, .checkbox label{
+	padding-left:0px !important;
+	margin-right: 20px;
+	font-size:14px;
+}
+.radio{
+	padding-left:0px;
+}
+.checkbox .cr,
+.radio .cr {
+    position: relative;
+    display: inline-block;
+    border: 1px solid #a9a9a9;
+    border-radius: .25em;
+    width: 1.3em;
+    height: 1.3em;
+    float: left;
+    margin-right: .5em;
+	 background: #fff;
+}
+
+.radio .cr {
+    border-radius: 50%;
+}
+
+.checkbox .cr .cr-icon,
+.radio .cr .cr-icon {
+    position: absolute;
+    font-size: .8em;
+    line-height: 0;
+    top: 50%;
+    left: 20%;
+}
+
+.radio .cr .cr-icon {
+    margin-left: 0.04em;
+}
+
+.checkbox label input[type="checkbox"],
+.radio label input[type="radio"] {
+    display: none;
+}
+
+.checkbox label input[type="checkbox"] + .cr > .cr-icon,
+.radio label input[type="radio"] + .cr > .cr-icon {
+    transform: scale(3) rotateZ(-20deg);
+    opacity: 0;
+    transition: all .3s ease-in;
+}
+
+.checkbox label input[type="checkbox"]:checked + .cr > .cr-icon,
+.radio label input[type="radio"]:checked + .cr > .cr-icon {
+    transform: scale(1) rotateZ(0deg);
+    opacity: 1;
+}
+
+.checkbox label input[type="checkbox"]:disabled + .cr,
+.radio label input[type="radio"]:disabled + .cr {
+    opacity: .5;
+}
+/*---------------dashboard----------------*/
+.grey_bar{
+	background:#ccc;
+	margin-top: -24px;
+	padding:15px 0px;
+	border: 2px solid #6f7072;
+}
+.grey_bar .profile{
+	
+}
+.grey_bar .profile .profile_icon{
+	display: inline-block;
+    border-radius: 50%;
+   background:#094276;
+    width: 30px;
+    max-width: 100%;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+.grey_bar .profile .profile_icon .fa-user{
+	font-size:15px;
+	color:#fff;
+}
+.grey_bar .profile p{
+	display: inline-block;
+	padding-left:8px;
+}
+.grey_bar .logout .logout_icon{
+	display: inline-block;
+    border-radius: 50%;
+    width: 30px;
+    max-width: 100%;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+.grey_bar .logout .logout_icon .fa-sign-out{
+	font-size:25px;
+	color:#094276;
+	vertical-align: middle;
+}
+.grey_bar .logout p{
+	display: inline-block;
+	padding-right:8px;
+}
+.grey_bar .scedule .clock_icon{
+	display: inline-block;
+    border-radius: 50%;
+    width: 30px;
+    max-width: 100%;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+	
+}
+.grey_bar .scedule .clock_icon .fa-clock-o{
+	font-size:25px;
+	color:#094276;
+	vertical-align: middle;
+}
+.grey_bar .scedule p{
+	display: inline-block;
+	padding-right:8px;
+/*---------------dashboard----------------*/
+

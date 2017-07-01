@@ -1,0 +1,740 @@
+[2017-06-16 18:00:44] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:00:50] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:00:50] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:01:00] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:01:00] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:01:02] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:01:14] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:01:15] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:02:29] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:02:32] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:02:44] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:02:48] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:03:14] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:03:17] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:03:18] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:03:26] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:04:27] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:04:41] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:04:42] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:04:42] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:04:42] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:04:42] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:02] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:03] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:24] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:57] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:57] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:57] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:59] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:05:59] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:07:24] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:07:26] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:07:26] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:10:45] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:10:56] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:10:56] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:10:56] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:10:57] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:11:22] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:16:35] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:16:35] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:17:03] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:17:12] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:17:13] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:21:45] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:21:49] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:21:55] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:22:01] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:08] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:08] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:09] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:09] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:09] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:09] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:42] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:43] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:43] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:25:43] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:27:53] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:27:55] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:27:55] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:27:55] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:27:56] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:28:14] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:28:15] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:28:15] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:43:51] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:44:02] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:44:10] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:44:14] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(160): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(144): Illuminate\Foundation\Http\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Http\Kernel.php(116): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter(Object(Illuminate\Http\Request))
+#5 C:\xampp\htdocs\properties\public\index.php(54): Illuminate\Foundation\Http\Kernel->handle(Object(Illuminate\Http\Request))
+#6 C:\xampp\htdocs\properties\server.php(21): require_once('C:\\xampp\\htdocs...')
+#7 {main}  
+[2017-06-16 18:45:11] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(267): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(114): Illuminate\Foundation\Console\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main}  
+[2017-06-16 18:48:08] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(267): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(114): Illuminate\Foundation\Console\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main}  
+[2017-06-16 18:53:48] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(267): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(114): Illuminate\Foundation\Console\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main}  
+[2017-06-16 18:54:16] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(267): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(114): Illuminate\Foundation\Console\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main}  
+[2017-06-16 19:02:57] production.ERROR: exception 'Exception' with message 'Unable to load the "app" configuration file.' in C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php:67
+Stack trace:
+#0 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\LoadConfiguration.php(39): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(208): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(267): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 C:\xampp\htdocs\properties\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(114): Illuminate\Foundation\Console\Kernel->bootstrap()
+#4 C:\xampp\htdocs\properties\artisan(36): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main}  
